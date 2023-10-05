@@ -15,6 +15,7 @@ function GenerateDomain() {
                     ${prefix[i]}${pron[j]}${adj[k]}${domain[p]}
                     `;
           document.body.appendChild(div);
+          //comentario chingon
         }
       }
     }
